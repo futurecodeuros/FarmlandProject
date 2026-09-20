@@ -45,3 +45,223 @@ C:\Users\Despot\repos\FarmlandProject\FarmlandProject\obj\Debug\net10.0\Farmland
 C:\Users\Despot\repos\FarmlandProject\FarmlandProject\obj\Debug\net10.0\FarmlandProject.genruntimeconfig.cache
 C:\Users\Despot\repos\FarmlandProject\FarmlandProject\obj\Debug\net10.0\ref\FarmlandProject.dll
 C:\Users\Despot\repos\FarmlandProject\FarmlandProject\obj\Debug\net10.0\Farmland.E4EE5AA2.Up2Date
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\DefaultFont.xnb
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\MonoGame.Framework.dll
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\NVorbis.dll
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\obj\Debug\net10.0\FarmlandProject.csproj.AssemblyReference.cache
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Character\Idle.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Character\Walk.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Farm Animals\Baby Chicken Yellow.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Farm Animals\Chicken Blonde  Green.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Farm Animals\Chicken Red.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Farm Animals\Female Cow Brown.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Farm Animals\Male Cow Brown.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\chest.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\Fence's copiar.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\House.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\Interior.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\Maple Tree.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\Road copiar.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Objects\Spring Crops.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Tileset\Tileset Grass Spring.png
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\back_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\back_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\back_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\back_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\bong_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\click_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\click_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\click_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\click_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\click_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\close_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\close_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\close_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\close_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\confirmation_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\confirmation_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\confirmation_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\confirmation_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\drop_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\drop_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\drop_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\drop_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_007.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\error_008.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glass_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glitch_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glitch_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glitch_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\glitch_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_007.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_008.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\maximize_009.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_007.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_008.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\minimize_009.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\open_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\open_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\open_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\open_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\pluck_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\pluck_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\question_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\question_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\question_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\question_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scratch_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scratch_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scratch_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scratch_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scratch_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scroll_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scroll_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scroll_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scroll_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\scroll_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_007.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\select_008.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_005.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_006.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\switch_007.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\tick_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\tick_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\tick_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\toggle_001.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\toggle_002.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\toggle_003.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Audio\toggle_004.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Kenney.url
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\License.txt
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Patreon.url
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES00.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES01.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES02.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES03.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES04.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES05.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES06.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES07.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES08.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES09.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES10.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES11.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES12.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES13.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES14.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES15.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\8-Bit jingles\jingles_NES16.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT00.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT01.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT02.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT03.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT04.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT05.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT06.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT07.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT08.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT09.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT10.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT11.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT12.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT13.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT14.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT15.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Hit jingles\jingles_HIT16.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI00.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI01.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI02.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI03.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI04.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI05.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI06.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI07.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI08.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI09.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI10.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI11.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI12.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI13.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI14.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI15.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Pizzicato jingles\jingles_PIZZI16.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX00.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX01.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX02.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX03.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX04.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX05.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX06.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX07.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX08.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX09.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX10.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX11.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX12.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX13.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX14.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX15.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Sax jingles\jingles_SAX16.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL00.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL01.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL02.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL03.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL04.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL05.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL06.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL07.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL08.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL09.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL10.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL11.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL12.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL13.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL14.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL15.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Audio\Steel jingles\jingles_STEEL16.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\License.txt
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Nightmare.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Preview.ogg
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Visit Kenney.url
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Visit Patreon.url
+C:\Users\kozod\repos\FarmlandProject\FarmlandProject\bin\Debug\net10.0\Content\ExternalAssets\Music\Farm.ogg

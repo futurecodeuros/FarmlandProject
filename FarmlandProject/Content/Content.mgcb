@@ -1,0 +1,12 @@
+/outputDir:bin/$(Platform)/$(Configuration)/Content
+/intermediateDir:obj/$(Platform)/$(Configuration)/Content
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#begin DefaultFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/build:DefaultFont.spritefont
+#end
