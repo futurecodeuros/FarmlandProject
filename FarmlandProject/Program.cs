@@ -1,4 +1,6 @@
 using System;
+using System.ComponentModel.Design;
+using static FarmlandProject.Player;
 
 namespace FarmlandProject
 {
@@ -42,10 +44,10 @@ namespace FarmlandProject
                             player.crop.Harvest();
                             break;
                         case 3:
-                            player.money.BuyAnimal();
+                            player.animals.BuyAnimal();
                             break;
                         case 4:
-                            player.money.SellAnimal();
+                            player.animals.SellAnimal();
                             break;
                         case 5:
                             player.farm.ShowStatus();
@@ -84,6 +86,7 @@ namespace FarmlandProject
         public Time time { get; private set; }
         public Crop crop { get; private set; }
         public Money money { get; private set; }
+        public Animal animals { get; private set; }
         public Farm farm { get; private set; }
 
 
@@ -92,7 +95,8 @@ namespace FarmlandProject
             time = new Time();
             crop = new Crop(time, "Carrot");
             money = new Money();
-            farm = new Farm(crop, money, time);
+            animals = new Animal(money);
+            farm = new Farm(crop, money, animals, time);
 
         }
    
@@ -110,13 +114,13 @@ namespace FarmlandProject
         public class Farm // the farm class with the showstatus
         {
             private readonly Crop _crop;
-            private readonly Money _animal;
+            private readonly Animal _animals;
             private readonly Money _totalGold;
             private readonly Time _time1;
-            public Farm(Crop crop, Money money, Time time2)
+            public Farm(Crop crop, Money money, Animal animals, Time time2)
             {
                 _crop = crop ?? throw new ArgumentNullException(nameof(crop));
-                _animal = money ?? throw new ArgumentNullException(nameof(money));
+                _animals = animals ?? throw new ArgumentNullException(nameof(animals));
                 _totalGold = money ?? throw new ArgumentNullException(nameof(money));
                 _time1 = time2 ?? throw new ArgumentNullException(nameof(time2));
             }
@@ -126,8 +130,8 @@ namespace FarmlandProject
                 Console.WriteLine("Showing farm status...");
                 Console.WriteLine($"Planted = {_crop.Planted}");
                 Console.WriteLine($"Harvested = {_crop.Harvested}");
-                Console.WriteLine($"Animals = {_animal.Animals}");
-                Console.WriteLine($"Money = {_totalGold.TotalGold} Gold");
+                Console.WriteLine($"Animals = {_animals.Animals}");
+                Console.WriteLine($"Money = {_totalGold._balance} Gold");
                 Console.WriteLine($"Day = {_time1.Day}");
 
             }
@@ -181,26 +185,34 @@ namespace FarmlandProject
 
 
         }
-
-        public class Money
+        public class Animal 
         {
+            private readonly Money _money;
             private int _animals = 0;
             public int Animals => _animals;
+            private int _animalPrice = 150;
+            public int AnimalPrice => _animalPrice;
+
+            public Animal(Money money)
+            {
+                _money = money ?? throw new ArgumentNullException(nameof(money));
+            }
 
             public void BuyAnimal()
             {
-                _animals++;
-                Console.WriteLine("An animal has been bought.");
-            }
-            private int _totalGold = 0;
+                if (_money.TryBuy(_animalPrice))
+                {
+                    _animals++;
+                    Console.WriteLine("An animal has been bought.");
+                }
+                }
 
-            public int TotalGold => _totalGold;
 
             public void SellAnimal()
             {
                 if (_animals > 0)
                 {
-                    _totalGold += 150;
+                    _money._balance+= 150;
                     _animals--;
                     Console.WriteLine("An animal has been sold");
                 }
@@ -211,6 +223,27 @@ namespace FarmlandProject
             }
 
 
+
+
+
+        }
+        public class Money
+        {
+            public int _balance = 500;
+           
+
+           public bool TryBuy(int price)
+            {
+                if (_balance < price)
+                {
+                    Console.WriteLine("You don't have enough money");
+                    return false;
+                }
+                _balance -= price;
+                Console.WriteLine("You have bought the animal");
+                return true;
+            }
+           
         }
     }
 }
