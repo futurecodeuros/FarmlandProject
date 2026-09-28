@@ -1,7 +1,4 @@
 using System;
-using System.ComponentModel.Design;
-using static FarmlandProject.Player;
-
 namespace FarmlandProject
 {
     internal class Program
@@ -142,7 +139,8 @@ namespace FarmlandProject
             private int _planted = 0;
             private int _harvested = 0;
             private bool _grown = false;
-
+            private bool _growing = true;
+            public bool Growing => _growing;
             public int _dayPlanted;
             public int Planted => _planted;
             public int Harvested => _harvested;
@@ -155,6 +153,24 @@ namespace FarmlandProject
                 _time = time ?? throw new ArgumentNullException(nameof(time));
                 this._type = T;
             }  // TIME SYSTEM
+
+            public bool StillGrowing()
+            {
+              
+                if (_time.Day < _dayPlanted + 3)
+                {
+                    _growing = true;
+                    _grown = false;
+                    return true;
+                 
+                }
+                _growing = false;
+                _grown = true;
+                return false;
+                
+               
+               
+            }
 
             public void Plant()
             {
@@ -171,12 +187,11 @@ namespace FarmlandProject
                     Console.WriteLine("You have no planted crops to harvest.");
                     return;
                 }
-                if (_time.Day <= _dayPlanted + 3)
+                if (StillGrowing())
                 {
                     Console.WriteLine("The plant has not grown yet.");
                     return;
                 }
-
 
                 _planted--;
                 _harvested++;
