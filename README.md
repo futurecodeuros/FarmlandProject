@@ -1,18 +1,18 @@
-# 🌱 Farmland Project
+# Farmland Project
 
 A small console-based farming game built in **C#** as a practical project for learning and strengthening core C# and Object-Oriented Programming concepts.
 
-## 🎯 Purpose
+##  Purpose
 
 The main goal of this project is not to build a complete game, but to practice writing C# code by building a simple system with interacting classes and game logic.
 
-## 🛠️ Technologies
+## Technologies
 
 * **C#**
 * **.NET**
 * Console Application
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 * Classes & Objects
 * Encapsulation
@@ -26,7 +26,7 @@ The main goal of this project is not to build a complete game, but to practice w
 * Basic game state management
 * Working with multiple interacting systems
 
-## 🎮 Features
+## Features
 
 * Plant and harvest crops
 * Track crop growth over time
@@ -36,7 +36,7 @@ The main goal of this project is not to build a complete game, but to practice w
 * View the current farm status
 * Console-based menu and input handling
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized around several classes responsible for different parts of the farm:
 
